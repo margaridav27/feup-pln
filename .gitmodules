@@ -1,0 +1,3 @@
+[submodule "FEUP-PLN-PROJ"]
+	path = FEUP-PLN-PROJ
+	url = git@github.com:1Krypt0/FEUP-PLN-PROJ.git
